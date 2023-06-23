@@ -1,7 +1,10 @@
-helloci
+Hello CI!!!
+
+demobranch data
+
 =======
 
-Test projects for "Hello, CI" training
+Test projects for Git training
 
 Build
 =======
